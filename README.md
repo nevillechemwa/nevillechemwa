@@ -3,8 +3,7 @@ My name is **Neville Chemwa**, an **ICT** graduate from **Laikipia University**.
 
 
 
-- 🔭 I’m currently working on Rental management system with php
-- 🌱 I’m currently learning FSD with udacity
+- 🌱 I’m currently learning software Engineering with ALX
 - 💬 Ask me about Full Stack Development, logo designs
 - ⚡ Fun fact: i love trying out recipes
 - You can reach me on [Linkedin](www.linkedin.com/in/neville-chemwa-7334b3175)
